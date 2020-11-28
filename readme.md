@@ -1,5 +1,5 @@
 # subspsce-clustering-code-collection
-该项目主要对一些子空间聚类方法论文代码进行汇总，包含：
+A collection of some subspace clustering algorithms contains：
 
 1. **CAN_code**: F. Nie, X. Wang, and H. Huang, “Clustering and projected clusteringwith adaptive neighbors,” in Proc. 20th ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining, 2014, pp. 977–986.
 2. **CLR_code**: F. Nie, X. Wang, M. I. Jordan, and H. Huang, “The constrained
