@@ -1,0 +1,16 @@
+Copyright @Can-Yi Lu, 2012
+
+This code is about the Least Squares Regression (LSR) method for subspace segmentation for our work:
+Can-Yi Lu, Hai Min, Zhong-Qiu Zhao, Lin Zhu, De-Shuang Huang and Shuicheng Yan. Robust and Efficient Subspace Segmentation via Least Squares Regression, European Conference on Computer Vision (ECCV), 2012.
+
+The code is provided for research purposes only.
+
+For face clustering on the Extended Yale B database, run Experiment_YaleB.m directly!
+
+Please contact Can-Yi Lu (canyilu@gmail.com) for questions about the code.
+
+
+
+
+
+
