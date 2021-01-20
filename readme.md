@@ -1,4 +1,4 @@
-# subspsce-clustering-code-collection
+# subspsce-clustering-code
 A collection of some subspace clustering algorithms contains：
 
 1. **CAN_code**: F. Nie, X. Wang, and H. Huang, “Clustering and projected clusteringwith adaptive neighbors,” in Proc. 20th ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining, 2014, pp. 977–986.
